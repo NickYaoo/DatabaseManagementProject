@@ -1,9 +1,108 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="BnYVNKoPdC0fC8qjrAS4">
-    <mxGraphModel>
+    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-1" value="&lt;u&gt;UserID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-2" value="Username" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-3" value="Password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-4" value="Email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-5" value="PaymentMethod" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-6" value="IsAuctioneer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-7" value="&lt;b&gt;USERS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-8" value="&lt;u&gt;ItemID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-9" value="Name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-10" value="Description" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-11" value="StartingPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-12" value="BuyNowPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-13" value="Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-14" value="&lt;b&gt;ITEMS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-15" value="&lt;u&gt;AuctionID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-16" value="StartDateTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-17" value="EndDateTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-18" value="Status" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-19" value="&lt;b&gt;AUCTIONS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="400" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-20" value="&lt;u&gt;BidID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-21" value="BidPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-22" value="BidTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-23" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-24" value="&lt;b&gt;BIDS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="560" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-25" value="&lt;u&gt;CredibilityID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-26" value="CredibilityScore" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-27" value="LastUpdated" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-28" value="&lt;b&gt;CREDIBILITY&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="720" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-29" value="&lt;u&gt;BidID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="85" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-30" value="BidPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="205" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-31" value="BidTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="325" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-32" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="445" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-33" value="&lt;b&gt;WINNINGS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="85" y="870" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
