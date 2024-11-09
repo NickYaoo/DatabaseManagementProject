@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="BnYVNKoPdC0fC8qjrAS4">
-    <mxGraphModel dx="954" dy="605" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,16 +88,16 @@
         <mxCell id="_s3bPg3lB8pmkuJawsRT-28" value="&lt;b&gt;CREDIBILITY&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="85" y="720" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-29" value="&lt;u&gt;BidID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-29" value="&lt;u&gt;WinID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="85" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-30" value="BidPrice" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-30" value="Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="205" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-31" value="BidTime" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-31" value="Satisfied" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="325" y="910" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-32" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-32" value="PaymentSuccess" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="910" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_s3bPg3lB8pmkuJawsRT-33" value="&lt;b&gt;WINNINGS&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
