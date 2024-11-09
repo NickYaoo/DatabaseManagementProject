@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.8.4">
   <diagram name="Page-1" id="BnYVNKoPdC0fC8qjrAS4">
-    <mxGraphModel dx="1060" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="867" dy="550" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -106,18 +106,18 @@
             <mxPoint x="630" y="344" as="sourcePoint" />
             <mxPoint x="86.26" y="304.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="550" y="340" />
-              <mxPoint x="86" y="340" />
+              <mxPoint x="550" y="360" />
+              <mxPoint x="86" y="360" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-69" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-69" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.61;exitY=0.016;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="_s3bPg3lB8pmkuJawsRT-68">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="540" as="sourcePoint" />
             <mxPoint x="80" y="124.50999999999999" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="570" y="510" />
-              <mxPoint x="720" y="510" />
+              <mxPoint x="540" y="520" />
+              <mxPoint x="720" y="520" />
               <mxPoint x="720" y="185" />
               <mxPoint x="80" y="185" />
             </Array>
@@ -177,30 +177,6 @@
             <mxPoint x="410" y="640" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-100" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="37.48" y="540" width="562.52" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-20" value="&lt;u&gt;BidID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-21" value="BidPrice" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="80.59949564419989" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-22" value="BidTime" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="161.19899128839978" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-23" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="241.7984869325997" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-68" value="Users_bid" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="481.9205043558" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-90" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="322.401646190238" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-94" value="Items_bids" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="_s3bPg3lB8pmkuJawsRT-100">
-          <mxGeometry x="402.9958295949523" width="80.5994956441999" height="57.03" as="geometry" />
-        </mxCell>
         <mxCell id="_s3bPg3lB8pmkuJawsRT-101" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="480" y="540" as="sourcePoint" />
@@ -234,18 +210,77 @@
         <mxCell id="_s3bPg3lB8pmkuJawsRT-74" value="Winning_user" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="516.8887915275509" y="830" width="77.81383573995767" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_s3bPg3lB8pmkuJawsRT-95" value="Auc_win" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-95" value="Auc_wins" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="594.7061642600422" y="830" width="77.81383573995767" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_s3bPg3lB8pmkuJawsRT-103" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1" source="_s3bPg3lB8pmkuJawsRT-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="460" y="710" as="sourcePoint" />
-            <mxPoint x="100" y="430" as="targetPoint" />
+            <mxPoint x="100" y="440" as="targetPoint" />
             <Array as="points">
               <mxPoint x="460" y="720" />
               <mxPoint x="730" y="720" />
-              <mxPoint x="730" y="490" />
-              <mxPoint x="100" y="490" />
+              <mxPoint x="730" y="510" />
+              <mxPoint x="100" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-104" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="655.84" y="827.01" as="sourcePoint" />
+            <mxPoint x="105.84" y="310.01" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="655.84" y="340.01" />
+              <mxPoint x="105.84" y="340.01" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-106" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_s3bPg3lB8pmkuJawsRT-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="820" as="sourcePoint" />
+            <mxPoint x="111.12" y="124.51" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="830" />
+              <mxPoint x="560" y="750" />
+              <mxPoint x="750" y="750" />
+              <mxPoint x="750" y="170" />
+              <mxPoint x="111" y="170" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-20" value="&lt;u&gt;BidID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="37.48" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-21" value="BidPrice" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="113.78100871160015" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-22" value="BidTime" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="190.0820174232003" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-23" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="266.3830261348005" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-68" value="Users_bid" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="493.6989912883997" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-90" value="BidSuccess" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="342.68750307406947" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-94" value="Items_bids" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="418.98348285555" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-115" value="Auc_bids" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
+          <mxGeometry x="569.9989912883997" y="540" width="76.30100871160018" height="57.03" as="geometry" />
+        </mxCell>
+        <mxCell id="_s3bPg3lB8pmkuJawsRT-116" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="540" as="sourcePoint" />
+            <mxPoint x="120" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="530" />
+              <mxPoint x="700" y="530" />
+              <mxPoint x="700" y="330" />
+              <mxPoint x="120" y="330" />
             </Array>
           </mxGeometry>
         </mxCell>
