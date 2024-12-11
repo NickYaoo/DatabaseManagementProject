@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" version="24.8.4">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1193" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1363" dy="864" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -29,10 +29,10 @@
           <mxGeometry x="610" y="505" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="NL8q8WmsciKk6pENXWlt-6" value="OpenAI GPT 3.5" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="410" y="640" width="120" height="40" as="geometry" />
+          <mxGeometry x="354" y="640" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NL8q8WmsciKk6pENXWlt-7" value="Recipe Output + Classification" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="390" y="730" width="124" height="110" as="geometry" />
+          <mxGeometry x="352" y="730" width="124" height="110" as="geometry" />
         </mxCell>
         <mxCell id="NL8q8WmsciKk6pENXWlt-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NL8q8WmsciKk6pENXWlt-1" target="WIyWlLk6GJQsqaUBKTNV-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -86,12 +86,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="650" y="490" as="sourcePoint" />
             <mxPoint x="700" y="440" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="NL8q8WmsciKk6pENXWlt-16" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NL8q8WmsciKk6pENXWlt-4" target="NL8q8WmsciKk6pENXWlt-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="280" y="700" as="sourcePoint" />
-            <mxPoint x="330" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="NL8q8WmsciKk6pENXWlt-17" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="NL8q8WmsciKk6pENXWlt-5" target="NL8q8WmsciKk6pENXWlt-6">
